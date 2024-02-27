@@ -1,4 +1,4 @@
-# Text-To-SQL-LLM-App
+# Text2SQL
 End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro
 
 # How to run?
@@ -37,8 +37,7 @@ http://localhost:8501 #Open this url in the browser
 ```
 
 # Demo
-![image](https://github.com/SunilKumar-ugra/Resume-ATS-System/assets/45965583/0b614df3-478c-43ec-926d-55b70bce598c)
-![image](https://github.com/SunilKumar-ugra/Resume-ATS-System/assets/45965583/0a86919a-6faf-496f-8c56-21ecc2aa8df8)
+![image](https://github.com/SunilKumar-ugra/Text2SQL-LLM-App/assets/45965583/80b2d668-5056-462b-b854-9568b53d87e2)
+![image](https://github.com/SunilKumar-ugra/Text2SQL-LLM-App/assets/45965583/a168aa43-0b6b-43f0-b7f3-3fdaf1c8b346)
 
-![2](https://github.com/SunilKumar-ugra/Invoice-Extractor-LLM-APP/assets/45965583/b16ed7e2-484e-463b-a847-12b799f59bb8)
-![3](https://github.com/SunilKumar-ugra/Invoice-Extractor-LLM-APP/assets/45965583/1b7951fa-b38c-4ae3-8d96-0b861cdf8aa4)
+
