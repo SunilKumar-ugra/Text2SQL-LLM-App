@@ -7,7 +7,7 @@ End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gem
 Clone the repository
 
 ```bash
-https://github.com/SunilKumar-ugra/Text-To-SQL-LLM-App.git
+https://github.com/SunilKumar-ugra/Text2SQL-LLM-App.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
